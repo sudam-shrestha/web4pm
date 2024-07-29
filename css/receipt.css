@@ -14,3 +14,17 @@
     top: 210px;
     left: 240px;
 }
+
+.yo{
+    text-align: center;
+    padding: 30px 0;
+}
+
+.btn{
+    background-color: #b1e5ba;
+    color: black;
+    border-radius: 4px;
+    text-decoration: none;
+    padding: 6px 12px;
+    border-bottom: 2px solid black;
+}
